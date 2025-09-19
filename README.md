@@ -3,7 +3,7 @@
 
 📌 Project Overview 
 
-A 5-star hotel struggles with their market loss thus this Power BI dashboard provides revenue insights to facilitate data-informed decision-making across various key metrics. Using Power BI, I analysed data to track revenue by category, trends by key metrics, property performance, realization percentage, and several other KPIs.
+A 5-star hotel struggles with their market loss... thus, this Power BI dashboard provides revenue insights to facilitate data-informed decision-making across various key metrics. Using Power BI, I analysed data to track revenue by category, trends by key metrics, property performance, realization percentage, and several other KPIs.
 
 🔹 Objectives
 
